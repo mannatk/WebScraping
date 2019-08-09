@@ -1,0 +1,13 @@
+setup.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
+sephora_scrapy_crawler/__init__.py
+sephora_scrapy_crawler/items.py
+sephora_scrapy_crawler/middlewares.py
+sephora_scrapy_crawler/pipelines.py
+sephora_scrapy_crawler/settings.py
+sephora_scrapy_crawler/spiders/__init__.py
+sephora_scrapy_crawler/spiders/sephora_spidy.py
